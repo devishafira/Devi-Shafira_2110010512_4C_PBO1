@@ -99,7 +99,7 @@ public class CatDetail extends Cat {
         return super.displayInfo() +
                 "\nJenis Cat: "+getJenis()+
                 "\nWarna: "+getWarna()+
-                "\nTahun Lahir: "+getTahunProduksi();
+                "\nTahun Produksi: "+getTahunProduksi();
         
     }
 }
